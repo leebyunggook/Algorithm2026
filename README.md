@@ -2,4 +2,4 @@
 ## 이병국 20001234
 
 // code
-Link: [googlelink](https://www.google.com/)
+[homework1](https://www.google.com/)
